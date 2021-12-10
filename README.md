@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adisa-di
 - 👀 I’m interested in full stack, frontend & gardening. 
-- 🌱 I’m currently learning to build decentralized applications & to grow some good tomatoes  
+- 🌱 I’m currently learning to build decentralized applications, to grow some good tomatoes, mix-media animation
 - 💞️ I’m looking to collaborate on interesting projects with interesting people.
 
 <!---
