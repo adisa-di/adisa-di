@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adisa-di
 - 👀 I’m interested in full stack, frontend & gardening. 
-- 💞️ I’m looking to collaborate on interesting projects with interesting people.
+- 💞️ Feel free to reach out if you're looking for someone to work on a cool project with!
 
 <!---
 adisa-di/adisa-di is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
