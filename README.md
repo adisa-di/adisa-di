@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @adisa-di
-- 👀 I’m interested in full stack, frontend & gardening. 
 - 💞️ Feel free to reach out if you're looking for someone to work on a cool project with!
 
 <!---
